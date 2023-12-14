@@ -8,7 +8,7 @@ from datetime import datetime
 
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 def open_file_explorer():
     try:
